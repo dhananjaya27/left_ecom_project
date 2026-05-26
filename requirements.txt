@@ -1,0 +1,9 @@
+pandas
+faker
+pyspark
+kafka-python
+confluent-kafka
+python-dotenv
+requests
+apache-airflow
+apache-airflow-providers-apache-kafka

@@ -1,0 +1,101 @@
+product_id,product_name,category,price,brand,created_at
+1,Energy,Sports,286.13,Taylor-Anderson,2026-02-09 03:51:50
+2,Recent,Electronics,138.32,Chan and Sons,2026-02-18 05:21:01
+3,Project,Electronics,216.9,Atkinson-Molina,2026-01-22 07:11:29
+4,Surface,Fashion,188.39,Smith-Maxwell,2026-03-24 15:14:31
+5,Sport,Home,207.57,Barker-Rodriguez,2026-02-16 12:52:48
+6,Almost,Electronics,50.57,Lopez-Edwards,2026-03-17 14:09:04
+7,Serious,Fashion,24.74,Cohen-Gardner,2026-03-20 10:05:07
+8,Lose,Books,220.05,"Johnson, Dickson and Reeves",2026-04-08 15:47:29
+9,Wear,Books,182.94,"Wilkins, Benson and Blair",2026-01-12 22:31:58
+10,Theory,Electronics,186.57,"Acosta, Smith and Benson",2026-01-23 09:31:31
+11,Opportunity,Electronics,332.64,"Charles, Clark and Robles",2026-02-23 10:55:06
+12,Foot,Fashion,420.48,"Greene, Schneider and Miller",2026-04-09 01:39:16
+13,Accept,Fashion,113.84,"Daniel, Powell and Smith",2026-05-14 00:40:41
+14,Someone,Electronics,458.93,Rhodes Inc,2026-01-08 23:12:11
+15,Probably,Books,493.35,Levy-Hogan,2026-02-24 07:26:30
+16,Reflect,Fashion,409.85,"Wilcox, Williams and James",2026-02-02 00:23:15
+17,Political,Home,35.67,"Lucas, Harvey and Taylor",2026-02-05 12:40:51
+18,Shoulder,Electronics,24.78,Williams-Reed,2026-02-27 12:28:02
+19,Almost,Books,134.57,"Carlson, Martin and Pennington",2026-01-29 12:05:54
+20,Also,Fashion,382.16,Howard-Smith,2026-02-04 18:15:12
+21,Pay,Sports,408.73,Stephens-West,2026-05-02 15:48:36
+22,Officer,Fashion,448.44,Lewis-Owens,2026-04-08 08:25:49
+23,Defense,Electronics,66.45,Powell Group,2026-04-16 21:40:33
+24,Foreign,Electronics,450.18,Jones-Smith,2026-01-23 02:01:12
+25,Child,Books,120.32,Manning Inc,2026-02-10 09:13:20
+26,Bring,Fashion,442.5,Barry Inc,2026-05-01 21:51:27
+27,Reflect,Fashion,53.41,"Kelly, Luna and Hutchinson",2026-03-31 06:35:12
+28,Charge,Sports,111.78,"James, Roberts and Hughes",2026-04-19 11:44:13
+29,Wish,Books,365.36,Snyder PLC,2026-04-29 09:24:00
+30,Likely,Sports,227.44,Mccormick-Freeman,2026-03-15 17:12:54
+31,Contain,Electronics,455.77,Torres-Black,2026-04-20 01:24:01
+32,Management,Electronics,25.61,Richards and Sons,2026-05-17 02:02:14
+33,Politics,Books,476.59,Garcia-Eaton,2026-01-24 03:47:19
+34,Card,Fashion,70.86,"Anderson, Davila and Tanner",2026-04-11 14:46:50
+35,Win,Electronics,77.12,"Phillips, Cole and Hughes",2026-05-09 14:46:03
+36,Benefit,Books,131.22,Cox-Martin,2026-04-13 19:04:37
+37,Audience,Electronics,415.88,Jackson Inc,2026-02-10 15:26:33
+38,Require,Home,410.16,"Green, Atkins and Mccormick",2026-03-21 12:02:01
+39,Mind,Sports,81.4,Brady-Cabrera,2026-03-27 08:47:41
+40,Rise,Electronics,262.72,Mccullough-Thornton,2026-02-12 04:24:38
+41,Man,Fashion,316.76,"Smith, Vang and Frye",2026-04-16 11:01:26
+42,Common,Sports,326.21,Young-Taylor,2026-01-29 14:01:51
+43,Little,Books,401.09,"Lane, Hayden and Gilbert",2026-02-24 00:45:05
+44,Anything,Home,369.95,Holmes-Norman,2026-01-08 21:50:22
+45,Fast,Books,309.7,Reyes-Davis,2026-05-08 17:09:06
+46,Work,Electronics,441.09,Green Inc,2026-03-18 14:58:05
+47,Himself,Home,495.87,Parker-Gomez,2026-04-15 22:13:18
+48,Thus,Home,179.1,Strickland-Kaiser,2026-03-28 21:59:26
+49,Great,Fashion,392.28,Burns-Hanna,2026-05-25 16:30:10
+50,From,Sports,404.51,"Garcia, Sutton and Phillips",2026-04-02 17:22:07
+51,Compare,Fashion,165.78,Garcia LLC,2026-01-06 19:25:20
+52,Weight,Electronics,163.51,"Brooks, Manning and Carey",2026-04-16 03:56:59
+53,Country,Home,266.43,Peterson-Hamilton,2026-03-09 18:14:17
+54,Either,Fashion,143.34,"Jarvis, Russell and Rowe",2026-05-06 12:28:54
+55,Else,Electronics,198.44,Stephens and Sons,2026-01-17 07:16:39
+56,Police,Sports,57.26,Collins-Sutton,2026-04-06 03:48:40
+57,Education,Sports,43.43,"Sherman, Nguyen and Taylor",2026-01-14 14:03:20
+58,Boy,Home,308.02,"Phillips, Warren and Garrett",2026-05-01 02:02:12
+59,Organization,Sports,390.04,Moore-Chambers,2026-05-03 04:25:36
+60,Business,Home,123.74,Frazier-Wall,2026-02-06 12:10:06
+61,Interesting,Books,242.13,Hanna PLC,2026-05-16 09:20:49
+62,Check,Home,200.58,Holland Inc,2026-02-19 06:34:36
+63,South,Electronics,237.96,Brown LLC,2026-04-05 08:51:58
+64,Man,Home,105.25,Odom-Rogers,2026-05-25 18:52:08
+65,High,Books,271.3,Taylor and Sons,2026-05-08 04:34:35
+66,Station,Electronics,228.35,Dudley-Jordan,2026-01-10 05:09:19
+67,Health,Electronics,199.36,Smith LLC,2026-01-26 10:35:16
+68,Particularly,Books,322.7,"Knapp, Moore and Navarro",2026-03-06 01:52:48
+69,Itself,Electronics,125.06,Williams-Mills,2026-04-22 08:35:25
+70,Per,Sports,111.35,"Brooks, Daniels and Duran",2026-04-26 23:06:20
+71,Factor,Electronics,286.01,Smith-Martinez,2026-03-30 11:08:53
+72,Another,Books,282.06,Johnson-Ali,2026-03-25 21:54:15
+73,Head,Sports,352.26,"Johnson, Clark and Davis",2026-01-02 18:10:23
+74,Least,Sports,436.1,"Houston, Roberts and Vasquez",2026-04-25 20:04:29
+75,National,Home,121.13,Jensen-Hughes,2026-01-25 01:48:59
+76,Note,Electronics,393.12,"Robbins, Washington and Evans",2026-05-10 10:29:00
+77,Lead,Fashion,186.62,Roth-Williams,2026-03-01 20:07:14
+78,I,Books,102.83,Flores Ltd,2026-01-13 14:13:36
+79,Admit,Sports,328.78,Hinton-Rodriguez,2026-01-21 11:26:22
+80,Development,Sports,32.95,"Walker, Long and Macdonald",2026-01-20 15:18:27
+81,Life,Electronics,147.25,Dickson Inc,2026-02-13 21:23:01
+82,Avoid,Home,462.74,"Peterson, Anderson and Bishop",2026-02-07 11:34:52
+83,Test,Home,449.02,Russell Inc,2026-02-27 03:44:55
+84,Heavy,Books,378.96,Roman Group,2026-02-24 10:52:19
+85,Choice,Fashion,269.86,"Williams, Skinner and Mcpherson",2026-04-17 00:32:00
+86,Edge,Electronics,218.63,Jenkins Ltd,2026-05-25 11:38:18
+87,Control,Electronics,198.6,Castillo and Sons,2026-04-16 08:10:20
+88,Note,Fashion,319.79,"Romero, Griffin and Lopez",2026-01-12 00:05:11
+89,This,Sports,206.92,Reid-Hernandez,2026-01-02 06:27:48
+90,Adult,Fashion,280.46,Bryant-Escobar,2026-03-13 14:10:41
+91,Everybody,Books,498.12,Nguyen Group,2026-02-26 01:27:13
+92,Admit,Books,239.79,Ford-Hickman,2026-01-03 13:48:25
+93,Provide,Sports,421.16,"Anderson, Knight and Strickland",2026-05-14 23:54:45
+94,Various,Electronics,77.67,Adams-Perez,2026-03-09 22:02:16
+95,Since,Home,280.05,Cooper Group,2026-03-27 07:08:05
+96,Affect,Sports,263.31,Fletcher PLC,2026-01-17 15:29:58
+97,Defense,Electronics,401.29,Moses LLC,2026-01-03 12:32:25
+98,Note,Fashion,470.26,Stewart LLC,2026-03-28 16:35:19
+99,Them,Fashion,264.9,Harris-Reilly,2026-03-16 21:23:21
+100,Social,Home,366.72,Foley-White,2026-02-04 05:12:33

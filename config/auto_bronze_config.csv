@@ -1,0 +1,8 @@
+table_name,source_zone,file_format,load_type,checkpoint_required
+customers,raw,csv,batch,false
+products,raw,csv,batch,false
+vendors,raw,csv,batch,false
+orders,streaming,json,stream,true
+payments,streaming,json,stream,true
+customer_cdc,cdc,json,cdc,true
+clickstream_logs,logs,json,stream,true
